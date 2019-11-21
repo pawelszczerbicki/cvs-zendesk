@@ -1,0 +1,6 @@
+{
+  "token": "token",
+  "subDomain": "domain",
+  "csvFilePath": "test.csv",
+  "email": "admin email"
+}
